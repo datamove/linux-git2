@@ -1,1 +1,2 @@
-print("Hello pull-request")
+#!/bin/bash
+echo 'Hello pull-request'
