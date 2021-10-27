@@ -1,1 +1,1 @@
-echo "Hello pull-requests"
+echo "Hello pull-request"
