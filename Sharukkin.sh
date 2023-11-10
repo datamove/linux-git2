@@ -1,1 +1,2 @@
-echo 'Hello pull-request'
+#!/bin/sh
+echo "Hello pull-request"
